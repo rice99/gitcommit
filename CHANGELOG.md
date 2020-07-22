@@ -1,9 +1,19 @@
 # [2.1.0](https://github.com/rice99/gitcommit/compare/v1.1.0...v2.1.0) (2020-07-22)
 
 
+### Bug Fixes
+
+* fix bug() ([8dadc0a](https://github.com/rice99/gitcommit/commit/8dadc0aa06d45fe06a5fbb755761e25312ecd80e)), closes [#1](https://github.com/rice99/gitcommit/issues/1) [re#1](https://github.com/re/issues/1)
+
+
 ### Features
 
 * xcvx ([07a2ae1](https://github.com/rice99/gitcommit/commit/07a2ae1fea7f85445ab420ef982b93791e5e8b52))
+
+
+### BREAKING CHANGES
+
+* sdfg
 
 
 
