@@ -1,1 +1,2 @@
-console.log('入口文件')
+let demo =(a,b) => a + b;
+console.log(demo(2,3))
