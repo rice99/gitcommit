@@ -1,6 +1,11 @@
 # [2.1.0](https://github.com/rice99/gitcommit/compare/v1.1.0...v2.1.0) (2020-07-22)
 
 
+### Features
+
+* xcvx ([07a2ae1](https://github.com/rice99/gitcommit/commit/07a2ae1fea7f85445ab420ef982b93791e5e8b52))
+
+
 
 # [1.1.0](https://github.com/rice99/gitcommit/compare/238c3bd8cf6b9ee052c6383237dadc2f84f75462...v1.1.0) (2020-07-22)
 
